@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/fed9ba09e9add9b197c21.png">
+  <img src="https://te.legra.ph/file/41ba24ed8abc30c4463d7.jpg">
 <p>
 
 <h1 align="center">
@@ -54,7 +54,7 @@ This is because markdown parsing is done by iterating through a dict, which is o
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IDN-C-X/ZeldrisRobot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kgf-2/ZeldrisRobot/tree/master)
 
 ### Configuration
 
